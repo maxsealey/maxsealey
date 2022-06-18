@@ -27,7 +27,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> 
 </div>
 
 </td><td valign="top" width="33%">
@@ -50,12 +51,20 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
  
 </div>
 
 </td></tr></table>  
- <br/> 
+ <br/>
+ 
+ 
+### Github Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maxsealey&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
  
 ### Completed Courses
  - <h5>Web Design & Development (HTML/CSS) - Arizona State University</h5>
@@ -65,16 +74,7 @@
  - <h5>Discrete Mathematics - Washington State University</h5>
 
 <br/>
-
- - <h5>Intermediate JavaScript - Codecademy - <a href="https://www.codecademy.com/profiles/maxsealey/certificates/512386fdc7f6c934f98b01e6afa8285a">Certificate of Completion</a></h5>
- - <h5>Advanced JavaScript - Udemy - <a href="https://www.udemy.com/certificate/UC-1b0466f4-0aec-42da-829d-47719cad5978/">Certificate of Completion</a></h5>
- - <h5>Create a Front-End App with React Skill Path - Codecademy - <a href="https://www.codecademy.com/profiles/maxsealey/certificates/5c9ce0b45f1de879ebcad4fd">Certificate of Completion</a></h5>
-
-
 <br/>
- 
- <br/>
- <br/>
  
 ### <div align="center">Connect with me!</div>  
 
@@ -86,7 +86,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
  
-<a href="https://maxsealey.com">MaxSealey.com</a>(Work in progress, coming soon!)
+<a href="https://maxsealey.com">MaxSealey.com</a> (Work in progress, coming soon!)
 </div> 
 
 <br/>
