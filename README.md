@@ -7,7 +7,7 @@
 ### About Me
 - I'm originally from Spokane, Washington, though I've spent the last couple of years in Phoenix, Arizona.
 
-- Besides coding, in my free time I enjoy reading, gaming (Madden, Rocket League, and a variety of RPGs), NFL football (Go Hawks!), and spending time with my fiancé/family.
+- Besides coding, in my free time I enjoy reading, gaming (Madden, Rocket League, Pokemon, and other RPGs), NFL football (Go Hawks!), and spending time with my fiancé/family.
 
 <br/>  
 
@@ -64,16 +64,6 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maxsealey&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
- 
-### Completed Courses
- - <h5>Web Design & Development (HTML/CSS) - Arizona State University</h5>
- - <h5>Algorithmic Problem Solving (Python) - Washington State University</h5>
- - <h5>Program Design & Development (C/C++) - Washington State University</h5>
- - <h5>Data Structures (C/C++) - Washington State University</h5>
- - <h5>Discrete Mathematics - Washington State University</h5>
-
-<br/>
 <br/>
  
 ### <div align="center">Connect with me!</div>  
@@ -83,5 +73,5 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
  
-<a href="https://maxsealey.com">MaxSealey.com</a> (Work in progress, coming soon!)
+<a href="https://maxsealey.com">MaxSealey.com</a>
 </div>
