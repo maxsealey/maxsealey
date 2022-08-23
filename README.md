@@ -1,11 +1,11 @@
 <img src="https://github.com/maxsealey/maxsealey/blob/main/banner.png" alt="banner with text Max Sealey, Software Developer" />
 
-## <div align="center">Hey, my name is Max! I'm currently studying Computer Science with the goal of becoming a Software Engineer.</div> 
+## <div align="center">Hey, my name is Max! I'm currently studying Computer Science at Western Governers University, with the goal of becoming a Software Engineer.</div> 
 
 <br/>
 
 ### About Me
-- I'm originally from Spokane, Washington, though I've spent the last couple of years in Phoenix, Arizona.
+- I'm originally from and currently living in Spokane, Washington, though I've also lived in Phoenix and in the Seattle area. I'm currently looking for internships and job opportunities in the greater Spokane area (and remote), though I'm definitely open to other offers.
 
 - Besides coding, in my free time I enjoy reading, gaming (Madden, Rocket League, Pokemon, and other RPGs), NFL football (Go Hawks!), and spending time with my fiancé/family.
 
@@ -17,7 +17,7 @@
 
 - Experience using the Java, C/C++, and Python programming languages (hoping to specialize in Java, still have a ton to learn!)  
 
-- Developing knowledge of OOP/SOLID Principles, Algorithm Design, and Data Structures
+- Developing knowledge of OOP/SOLID Principles, Algorithm Design, Databases, and Data Structures
 
 <br/>
 
@@ -60,9 +60,12 @@
  <br/>
  
  
-### Github Stats
+### <div align="center">Github Stats</div> 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maxsealey&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=maxsealey&show_icons=true&count_private=true&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsealey&layout=compact&hide_border=true" />
+</div>
 
 <br/>
  
