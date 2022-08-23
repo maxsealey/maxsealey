@@ -1,17 +1,17 @@
 <img src="https://github.com/maxsealey/maxsealey/blob/main/banner.png" alt="banner with text Max Sealey, Software Developer" />
 
-## <div align="center">Hey, my name is Max! I'm currently studying Computer Science at Western Governers University, with the goal of becoming a Software Engineer.</div> 
+## <div align="center">Hey, my name is Max! I'm currently studying Computer Science at Western Governers University, with the goal of becoming a Software Engineer.<br/><br/> Seeking a SWE or Web Dev internship for Fall 2022, Spring 2023, and/or Summer 2023.</div> 
 
 <br/>
 
-### About Me
+### <div align="center">About Me</div>
 - I'm originally from and currently living in Spokane, Washington, though I've also lived in Phoenix and in the Seattle area. I'm currently looking for internships and job opportunities in the greater Spokane area (and remote), though I'm definitely open to other offers.
 
 - Besides coding, in my free time I enjoy reading, gaming (Madden, Rocket League, Pokemon, and other RPGs), NFL football (Go Hawks!), and spending time with my fiancé/family.
 
 <br/>  
 
-### My Skill Set
+### <div align="center">My Skill Set</div>
 
 - Proficient using JavaScript for Front-end and Back-end Web Development (React/Redux, Node.js, and MongoDB/Express frameworks)
 
@@ -23,7 +23,7 @@
 
 <table><tr><td valign="top" width="33%">
  
-### Programming Languages
+### <div align="center">Programming languages</div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
@@ -34,7 +34,7 @@
 
 </td><td valign="top" width="33%">
  
-### Frontend  
+### <div align="center">Frontend</div>  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
@@ -46,7 +46,7 @@
 
 </td><td valign="top" width="33%">
  
-### Backend  
+### <div align="center">Backend</div>  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
