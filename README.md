@@ -2,13 +2,6 @@
 
 ## <div align="center">Hey, my name is Max! I'm currently studying Computer Science at Western Governors University, with the goal of becoming a Software Engineer.<br/><br/> Seeking a SWE or Web Dev internship for Fall 2022, Spring 2023, and/or Summer 2023.</div> 
 
-<br/>
-
-### <div align="center">About Me</div>
-- I'm originally from and currently living in Spokane, Washington, though I've also lived in Phoenix and in the Seattle area. I'm currently looking for an internship or job opportunity.
-
-- Besides coding, in my free time I enjoy reading, gaming (Madden, Rocket League, Pokemon, and other RPGs), NFL football (Go Hawks!), and spending time with my fiancé/family.
-
 <br/>  
 
 ### <div align="center">My Skill Set</div>
