@@ -6,11 +6,11 @@
 
 ### <div align="center">My Skill Set</div>
 
-- Proficient using JavaScript for Front-end and Back-end Web Development (React/Redux, Node.js, and MongoDB/Express frameworks)
+- Experience using C/C++, Java, Python programming languages.
 
-- Experience using the Java, C/C++, and Python programming languages (hoping to specialize in Java, still have a ton to learn!)  
+- Solid foundation in Procedural and Object-oriented programming concepts. Developing knowledge of Algorithm Design, Databases, and Data Structures.
 
-- Developing knowledge of OOP/SOLID Principles, Algorithm Design, Databases, and Data Structures
+- Experienced using JavaScript for Front-end and Back-end Web Development (ReactJS, NodeJS, and MongoDB/Express frameworks), as well as HTML/CSS/SCSS.
 
 <br/>
 
@@ -19,10 +19,10 @@
 ### <div align="center">Programming languages</div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />    
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />       
 </div>
 
 </td><td valign="top" width="33%">
@@ -30,7 +30,6 @@
 ### <div align="center">Frontend</div>  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -69,5 +68,5 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
  
-<a href="https://maxsealey.com">MaxSealey.com</a>
+<!--<a href="https://maxsealey.com">MaxSealey.com</a>-->
 </div>
