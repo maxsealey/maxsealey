@@ -1,4 +1,4 @@
-<img src="https://github.com/maxsealey/maxsealey/blob/main/banner.png" alt="banner with text Max Sealey, Software Developer" />
+<!--<img src="https://github.com/maxsealey/maxsealey/blob/main/banner.png" alt="banner with text Max Sealey, Software Developer" />-->
 
 ## <div align="center">Hey, my name is Max! I'm currently studying Computer Science at Western Governors University, with the goal of becoming a Software Engineer.<br/><br/> Seeking a SWE or Web Dev internship for Fall 2022, Spring 2023, and/or Summer 2023.</div> 
 
