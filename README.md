@@ -1,16 +1,16 @@
 <!--<img src="https://github.com/maxsealey/maxsealey/blob/main/banner.png" alt="banner with text Max Sealey, Software Developer" />-->
 
-## <div align="center">Hey, my name is Max! I'm currently studying Computer Science at Western Governors University, with the goal of becoming a Software Engineer.<br/><br/> Seeking a SWE or Web Dev internship for Fall 2022, Spring 2023, and/or Summer 2023.</div> 
+## <div align="center">Hey, my name is Max! I'm currently studying Computer Science at Western Governors University, with the goal of becoming a Software Engineer.<br/><br/> Seeking a SWE or Web Dev internship for Spring 2023, Summer 2023, and/or Fall 2023.</div> 
 
 <br/>  
 
 ### <div align="center">My Skill Set</div>
 
-- Experience using C/C++, Java, Python programming languages.
+- Experience using C/C++, Java, Python, and JavaScript programming languages.
 
-- Solid foundation in Procedural and Object-oriented programming concepts. Developing knowledge of Algorithm Design, Databases, and Data Structures.
+- Solid foundation in procedural and object-oriented programming concepts, relational and non-relational database design and implementation, data structures and algorithms. 
 
-- Experienced using JavaScript for Front-end and Back-end Web Development (ReactJS, NodeJS, and MongoDB/Express frameworks), as well as HTML/CSS/SCSS.
+- Experienced using JavaScript and HTML/CSS/ScSS for Front-end web development (React/Redux), and developing knowledge of Back-end development (Node/Express/MongoDB, Mongoose).
 
 <br/>
 
@@ -44,7 +44,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
+<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />-->
  
 </div>
 
@@ -67,6 +67,6 @@
 <a href="https://linkedin.com/in/maxsealey" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- 
+<!-- Coming soon -->
 <!--<a href="https://maxsealey.com">MaxSealey.com</a>-->
 </div>
