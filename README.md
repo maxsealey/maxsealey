@@ -1,6 +1,6 @@
 <!--<img src="https://github.com/maxsealey/maxsealey/blob/main/banner.png" alt="banner with text Max Sealey, Software Developer" />-->
 
-### <div align="center">Hey, my name is Max! I'm currently a Computer Science student at Western Governors University with the goal of becoming a Software Engineer.
+### <div align="center">Hey, my name is Max!<br/><br/> I'm currently a Computer Science student at Western Governors University with the goal of becoming a Software Engineer.
 
 <br/>  
 
