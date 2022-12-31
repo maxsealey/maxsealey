@@ -1,10 +1,10 @@
 <!--<img src="https://github.com/maxsealey/maxsealey/blob/main/banner.png" alt="banner with text Max Sealey, Software Developer" />-->
 
-## <div align="center">Hey, my name is Max! I'm currently studying Computer Science at Western Governors University, with the goal of becoming a Software Engineer.<br/><br/> Seeking a SWE or Web Dev internship for Spring 2023, Summer 2023, and/or Fall 2023.</div> 
+### <div align="center">Hey, my name is Max! I'm currently a Computer Science student at Western Governors University with the goal of becoming a Software Engineer.
 
 <br/>  
 
-### <div align="center">My Skill Set</div>
+#### <div align="center">My Skill Set</div>
 
 - Experience using C/C++, Java, Python, and JavaScript programming languages.
 
@@ -16,7 +16,7 @@
 
 <table><tr><td valign="top" width="33%">
  
-### <div align="center">Programming languages</div>
+#### <div align="center">Programming languages</div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
@@ -27,7 +27,7 @@
 
 </td><td valign="top" width="33%">
  
-### <div align="center">Frontend</div>  
+#### <div align="center">Frontend</div>  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -38,7 +38,7 @@
 
 </td><td valign="top" width="33%">
  
-### <div align="center">Backend</div>  
+#### <div align="center">Backend</div>  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
@@ -52,7 +52,7 @@
  <br/>
  
  
-### <div align="center">Github Stats</div> 
+#### <div align="center">Github Stats</div> 
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=maxsealey&show_icons=true&count_private=true&hide_border=true" />
@@ -61,7 +61,7 @@
 
 <br/>
  
-### <div align="center">Connect with me!</div>  
+#### <div align="center">Connect with me!</div>  
 
 <div align="center">
 <a href="https://linkedin.com/in/maxsealey" target="_blank">
