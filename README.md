@@ -15,7 +15,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=FFD43B">
 </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=5E97D0">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=5E97D0&desc=c%2B%2B">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
@@ -42,7 +42,7 @@
 ### <div align="center">Github Stats</div> 
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxsealey&layout=compact&hide_border=true&theme=cobalt&langs_count=8" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxsealey&layout=compact&hide_border=true&theme=cobalt&langs_count=6" />
  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maxsealey&show_icons=true&count_private=true&hide_border=true&theme=cobalt" />
 </div>
 <br/>  
