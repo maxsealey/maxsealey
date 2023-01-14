@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/maxsealey/maxsealey/blob/main/banner.png" alt="banner with text Max Sealey, Software Developer" style="height: 220px" />
+<img src="https://github.com/maxsealey/maxsealey/blob/main/banner.png" alt="banner with text Max Sealey, Software Developer" style="width:500px" />
 </div>
 
 ### <div align="center">Languages & Frameworks</div> 
@@ -47,8 +47,10 @@
 </div>
 <br/>  
 
+### <div align="center">Contact Me</div> 
+
 <div align="center">
 <a href="https://linkedin.com/in/maxsealey" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
 </a>
 </div>
