@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
 <img src="https://github.com/maxsealey/maxsealey/blob/main/banner.png" alt="banner with text Max Sealey, Software Developer" style="width:500px" />
-</div>
+</div>-->
 
 ### <div align="center">Languages & Frameworks</div> 
 
