@@ -43,7 +43,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxsealey&layout=compact&hide_border=true&theme=cobalt&langs_count=6" />
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maxsealey&show_icons=true&count_private=true&hide_border=true&theme=cobalt" />
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maxsealey&show_icons=true&count_private=true&hide_border=true&theme=cobalt" />-->
 </div>
 <br/>  
 
