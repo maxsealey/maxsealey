@@ -27,7 +27,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mySQL&svgfill=f29111">
 </a>
  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgreSQL&svgfill=336791">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&svgfill=336791">
 </a>
  <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=563d7c">
@@ -42,13 +42,17 @@
 ### <div align="center">Github Stats</div> 
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxsealey&layout=compact&hide_border=true&theme=cobalt&langs_count=6" />
-  <!--<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maxsealey&show_icons=true&count_private=true&hide_border=true&theme=cobalt" />-->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxsealey&layout=compact&hide_border=true&theme=cobalt&langs_count=8" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maxsealey&show_icons=true&count_private=true&hide_border=true&theme=cobalt" />
 </div>
-<br/>  
+<br/><br/> 
 
 <div align="center">
 <a href="https://linkedin.com/in/maxsealey" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
+</a>
+
+<a href="maxsealey.com" target="_blank">
+<img src="https://readme-components.vercel.app/api?component=button&text=MaxSealey&period;com&scale=small&fill=00C45B&textfill=white"/>
 </a>
 </div>
