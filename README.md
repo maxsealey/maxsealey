@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
 </a>
 
-<a href="maxsealey.com" target="_blank">
+<a href="https://maxsealey.com" target="_blank">
 <img src="https://readme-components.vercel.app/api?component=button&text=MaxSealey&period;com&scale=small&fill=00C45B&textfill=white"/>
 </a>
 </div>
